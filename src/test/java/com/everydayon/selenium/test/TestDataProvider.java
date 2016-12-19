@@ -1,7 +1,4 @@
-/**
- * File: TestDataProvider.java
- */
-package com.everydayon.selenium;
+package com.everydayon.selenium.test;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -11,6 +8,7 @@ import org.testng.ITestContext;
 import org.testng.annotations.DataProvider;
 
 /**
+ * Data provider class.
  * @author Jagadesh Babu Munta
  *
  */

@@ -1,4 +1,4 @@
-package com.everydayon.PrimeNumber;
+package com.everydayon;
 
 /**
 * 560.	Print prime numbers between 2 given numbers and also total number of primes found.Also write if those given numbers also prime or not.  See primes at http://primes.utm.edu/

@@ -38,7 +38,7 @@ public class MapExample {
 		population.put("Sunnyvale", 10);
 
 		System.out.println(population); // debugging
-		Int fremontPop = population.get("Fremont").intValue();
+		int fremontPop = population.get("Fremont").intValue();
 		System.out.println("Fremont population=" + fremontPop);
 
 		Map<String, Integer> calPop = new HashMap<String, Integer>();
